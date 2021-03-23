@@ -15,6 +15,8 @@ Web interface controlling three pins include three cases:
 - All Pins On button
 - All pins OFF button
 - Running Lights
+![image](https://user-images.githubusercontent.com/62028367/112103091-7c1afa80-8b66-11eb-85f4-3d8d224c082e.png)
+
 
 ## Installing and operating
 Required:
