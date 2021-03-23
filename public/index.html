@@ -1,0 +1,25 @@
+<HTML>
+<HEADER>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+</HEADER>
+<BODY>
+<center>
+<h2>Final Project</h2>
+<h3>Raspbery Pi Lights Web Interface</h3>
+<button type=button onclick="runLights('running_lights.php')">Running Lights</button>
+<button type=button onclick="runLights('lights_on.php')">Lights ON</button>
+<button type=button onclick="runLights('lights_off.php')">Lights OFF</button>
+</center>
+<script language="JavaScript" type="text/javascript">
+ 
+  function runLights(url) {
+    $.ajax({
+      url: url
+    });
+  }   
+  
+</script>
+
+</BODY>
+
+</HTML>
