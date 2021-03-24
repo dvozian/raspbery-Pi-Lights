@@ -19,6 +19,8 @@ Web interface controlling three pins include three cases:
 - All Pins On button
 - All pins OFF button
 - Running Lights
+![image](https://user-images.githubusercontent.com/62028367/112103091-7c1afa80-8b66-11eb-85f4-3d8d224c082e.png)
+
 
 ![image](https://user-images.githubusercontent.com/62028367/112249719-7a5c4000-8c15-11eb-8201-dd559ee07e06.png)
 
@@ -31,6 +33,10 @@ Required:
  - Docker compose
  - Python3
  - RPi.GPIO
+ ![image](https://user-images.githubusercontent.com/62028367/112249331-ce1a5980-8c14-11eb-83ee-bd3ce0097f0a.png)
+ ![image](https://user-images.githubusercontent.com/62028367/112249376-e4281a00-8c14-11eb-80d9-2b98a571ad49.png)
+![image](https://user-images.githubusercontent.com/62028367/112249400-f2763600-8c14-11eb-8a22-05c76926459b.png)
+
  
 ![image](https://user-images.githubusercontent.com/62028367/112249607-5698fa00-8c15-11eb-84a9-200677bd13b9.png)
 ![image](https://user-images.githubusercontent.com/62028367/112249630-5d277180-8c15-11eb-84ce-293f069f0d23.png)
