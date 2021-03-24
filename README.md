@@ -26,6 +26,10 @@ Required:
  - Docker compose
  - Python3
  - RPi.GPIO
+ ![image](https://user-images.githubusercontent.com/62028367/112249331-ce1a5980-8c14-11eb-83ee-bd3ce0097f0a.png)
+ ![image](https://user-images.githubusercontent.com/62028367/112249376-e4281a00-8c14-11eb-80d9-2b98a571ad49.png)
+![image](https://user-images.githubusercontent.com/62028367/112249400-f2763600-8c14-11eb-8a22-05c76926459b.png)
+
  
  1. Install operating system on Raspberry Pi
  2. Connect three LED lights to pins 36, 38, and 40
