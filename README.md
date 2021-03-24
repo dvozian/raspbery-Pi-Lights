@@ -2,7 +2,7 @@
 
 ## Project Objective
 Controlling LED lights attached to pins on Raspberry Pi using mobile WEB interface
-![Uploading image.png…]()
+
 
 
 
