@@ -20,6 +20,9 @@ Web interface controlling three pins include three cases:
 - All pins OFF button
 - Running Lights
 
+![image](https://user-images.githubusercontent.com/62028367/112249719-7a5c4000-8c15-11eb-8201-dd559ee07e06.png)
+
+
 ## Installing and operating
 Required:
  - Raspberry Pi Zero W with WiFi module
@@ -28,6 +31,11 @@ Required:
  - Docker compose
  - Python3
  - RPi.GPIO
+ 
+![image](https://user-images.githubusercontent.com/62028367/112249607-5698fa00-8c15-11eb-84a9-200677bd13b9.png)
+![image](https://user-images.githubusercontent.com/62028367/112249630-5d277180-8c15-11eb-84ce-293f069f0d23.png)
+![image](https://user-images.githubusercontent.com/62028367/112249658-66184300-8c15-11eb-9c35-6f68a3c087c8.png)
+
  
  1. Install operating system on Raspberry Pi
  2. Connect three LED lights to pins 36, 38, and 40
