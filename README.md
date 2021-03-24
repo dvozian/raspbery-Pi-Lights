@@ -2,6 +2,8 @@
 
 ## Project Objective
 Controlling LED lights attached to pins on Raspberry Pi using mobile WEB interface
+IMG_0658.HEIC
+
 
 ## Technological stack
 - Raspberry Pi board with WiFi module
